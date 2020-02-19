@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1581790130 source:c:\fasf\typetrainer\main.cpp
+	<iostream>
+	"graphic.h"
+
+1581790003 c:\fasf\typetrainer\graphic.h
+	<SFML/Graphics.hpp>
+	<string>
+	<vector>
+	<chrono>
+	<random>
+	<ctime>
+
